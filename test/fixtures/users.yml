@@ -1,8 +1,8 @@
 jesse:
-	first_name: "Jesse"
-	last_name: "Appel"
-	email: "jesseappel@gmail.com"
-	profile_name: "jesseappel"
-	password: "password"
-	password: "password_confirmation"
+first_name: "Jesse"
+last_name: "Appel"
+email: "jesseappel@gmail.com"
+profile_name: "jesseappel"
+password: "password"
+password_confirmation: "password"
 
